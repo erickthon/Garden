@@ -28,6 +28,8 @@ This project is an IoT-based garden monitoring and control system built using Ar
 4. Upload the code to your Arduino board.
 5. Open the Arduino IoT Cloud dashboard to monitor sensor readings and control the water pump.
 
+![Dashboard](https://github.com/erickthon/Garden/blob/main/Dashboard_app.png)
+
 ## Watering System
 
 The watering system uses a water pump controlled by a relay. The pump is turned on when the soil is dry (sensor reading less than 60) and turned off when the soil is wet (sensor reading greater than 60). This ensures that your plants are watered automatically whenever they need it.
